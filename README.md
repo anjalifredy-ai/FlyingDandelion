@@ -1,6 +1,6 @@
 ﻿# BIRD GAME
 
-by [Kulíš Android](http://android.kul.is) 
+by Remon Francis 
 
 [Google Play Store link](https://play.google.com/store/apps/details?id=is.kul.flappydandelion) 
 
