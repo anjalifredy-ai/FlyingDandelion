@@ -1,4 +1,4 @@
-﻿# Flying Mr. Dandelion
+﻿# BIRD GAME
 
 by [Kulíš Android](http://android.kul.is) 
 
